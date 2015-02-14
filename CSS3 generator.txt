@@ -1,0 +1,15 @@
+﻿http://enjoycss.com  CSS3 generator 
+
+http://www.webcore-it.com/colorful-background/#          CSS Gradient Background Generator
+
+http://sandbox.juan-i.com/longshadows/            long-shadows-generator
+
+http://blog.gospodarets.com/css-filters/?src=http://malyw.github.io/&filters=%7B%7D&modal=0   CSS filters in action
+
+http://www.createcss3.com/      Generator with prefix all efect 
+
+https://coveloping.com/tools     !!!! Power Generator !!!!!
+
+http://danielstern.ca/range.css/#/       Range  Generator
+
+http://csshexagon.com/        CSS Hexagon Generator
